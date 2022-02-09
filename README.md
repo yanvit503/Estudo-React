@@ -1,4 +1,9 @@
-# Dependências
+# O que é este repo
+
+Irei utilizar esse repositório para guardar anotações importantes e exemplos para utilizar em projetos futuros.\
+Se isto te ajudar, ficarei feliz :blush: 
+
+## Dependências
 
 Você precisar ter o Node.Js instalado na sua máquina. [Baixar o NodeJs](https://nodejs.org/pt-br/)
 
