@@ -1,9 +1,11 @@
-import Contador from './Components/Contador'
+import Formulario from './Components/Formulario'
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
 
 function App() {
   return (
     <div className="App">
-      <Contador texto="Olá mundo"/>
+      <Formulario/>
     </div>
   );
 }
